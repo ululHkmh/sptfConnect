@@ -5,3 +5,5 @@ type sudo ./install.sh then enter;
 done.
 
 this process must be connected to internet
+i don't know
+
