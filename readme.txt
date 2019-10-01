@@ -1,2 +1,3 @@
 How To Use This Script:
-i don't know
+1. i don't know
+2. entah apa
