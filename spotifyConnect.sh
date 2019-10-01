@@ -1,5 +1,7 @@
 #!/bin/bash
 
+echo "#~Script to install sptfConnect~#"
+
 curl -sL https://dtcooper.github.io/raspotify/install.sh | sh
 
 echo "if curl is not istalled, 
