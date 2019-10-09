@@ -9,3 +9,5 @@ done.
 this process must be connected to internet
 i don't know
 master
+
+semoga kasonya dapat semua Ya Allah....... aamiiin aamiin aamin
